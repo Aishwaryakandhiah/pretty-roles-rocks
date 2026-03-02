@@ -1,0 +1,61 @@
+Part_ID,Bolt_Type,Material,Length_mm,Diameter_mm,Volume_mm3,Surface_Area_mm2,Weight_g,Manufacturing_Process,Tolerance_mm,Cost_INR,Duplicate_Label
+BOLT_001,Hex Bolt,Alloy Steel,100,10,7853.98,3298.67,61.26,Cold Forging,0.02,58.06,0
+BOLT_002,Eye Bolt,Stainless Steel,30,12,3392.92,1357.17,27.14,Cold Forging,0.026,29.53,0
+BOLT_003,Carriage Bolt,Alloy Steel,60,8,3015.93,1608.5,23.52,Cold Forging,0.01,25.63,0
+BOLT_004,Eye Bolt,Steel,50,12,5654.87,2111.15,44.39,CNC Machining,0.015,60.33,0
+BOLT_005,Flange Bolt,Steel,20,12,2261.95,980.18,17.76,CNC Machining,0.039,26.03,0
+BOLT_006,Carriage Bolt,Stainless Steel,50,6,1413.72,999.03,11.31,CNC Machining,0.038,13.02,0
+BOLT_007,Eye Bolt,Stainless Steel,60,16,12063.72,3418.05,96.51,CNC Machining,0.035,142.83,0
+BOLT_008,Flange Bolt,Stainless Steel,50,16,10053.1,2915.4,80.42,CNC Machining,0.012,91.5,0
+BOLT_009,Eye Bolt,Alloy Steel,20,6,565.49,433.54,4.41,CNC Machining,0.048,4.29,0
+BOLT_010,Eye Bolt,Alloy Steel,20,10,1570.8,785.4,12.25,Cold Forging,0.035,17.47,0
+BOLT_011,Carriage Bolt,Stainless Steel,100,6,2827.43,1941.5,22.62,CNC Machining,0.021,29.04,0
+BOLT_012,Eye Bolt,Steel,30,8,1507.96,854.51,11.84,CNC Machining,0.038,16.14,0
+BOLT_013,Hex Bolt,Steel,20,12,2261.95,980.18,17.76,Thread Rolling,0.048,14.47,0
+BOLT_014,Hex Bolt,Stainless Steel,20,6,565.49,433.54,4.52,Thread Rolling,0.024,3.64,0
+BOLT_015,Carriage Bolt,Stainless Steel,20,10,1570.8,785.4,12.57,Cold Forging,0.036,15.7,0
+BOLT_016,Hex Bolt,Stainless Steel,30,8,1507.96,854.51,12.06,Thread Rolling,0.02,16.94,0
+BOLT_017,Eye Bolt,Stainless Steel,20,12,2261.95,980.18,18.1,CNC Machining,0.026,16.43,0
+BOLT_018,Flange Bolt,Steel,20,16,4021.24,1407.43,31.57,Thread Rolling,0.045,33.32,0
+BOLT_019,Hex Bolt,Steel,20,8,1005.31,603.19,7.89,CNC Machining,0.02,9.47,0
+BOLT_020,Eye Bolt,Steel,60,8,3015.93,1608.5,23.68,CNC Machining,0.023,33.92,0
+BOLT_021,Eye Bolt,Alloy Steel,100,10,7853.98,3298.67,61.26,CNC Machining,0.042,72.95,1
+BOLT_022,Carriage Bolt,Steel,50,8,2513.27,1357.17,19.73,Thread Rolling,0.038,23.13,0
+BOLT_023,Hex Bolt,Stainless Steel,30,16,6031.86,1910.09,48.25,Thread Rolling,0.012,66.39,0
+BOLT_024,Hex Bolt,Stainless Steel,40,8,2010.62,1105.84,16.08,CNC Machining,0.045,15.81,0
+BOLT_025,Hex Bolt,Alloy Steel,60,12,6785.84,2488.14,52.93,CNC Machining,0.03,61.47,0
+BOLT_026,Flange Bolt,Alloy Steel,20,6,565.49,433.54,4.41,Thread Rolling,0.043,4.76,0
+BOLT_027,Eye Bolt,Alloy Steel,40,6,1130.97,810.53,8.82,Thread Rolling,0.028,8.1,0
+BOLT_028,Carriage Bolt,Alloy Steel,60,10,4712.39,2042.04,36.76,Cold Forging,0.032,52.6,0
+BOLT_029,Hex Bolt,Steel,60,10,4712.39,2042.04,36.99,Thread Rolling,0.013,48.06,0
+BOLT_030,Carriage Bolt,Stainless Steel,30,6,848.23,622.04,6.79,Cold Forging,0.025,7.62,0
+BOLT_031,Flange Bolt,Alloy Steel,30,10,2356.19,1099.56,18.38,CNC Machining,0.03,22.32,1
+BOLT_032,Hex Bolt,Steel,60,6,1696.46,1187.52,13.32,Thread Rolling,0.021,16.09,0
+BOLT_033,Hex Bolt,Stainless Steel,60,6,1696.46,1187.52,13.57,Cold Forging,0.011,19.55,0
+BOLT_034,Flange Bolt,Alloy Steel,50,12,5654.87,2111.15,44.11,CNC Machining,0.024,53.26,0
+BOLT_035,Carriage Bolt,Stainless Steel,80,6,2261.95,1564.51,18.1,Thread Rolling,0.017,19.96,0
+BOLT_036,Carriage Bolt,Stainless Steel,80,6,2261.95,1564.51,18.1,Cold Forging,0.016,17.98,0
+BOLT_037,Flange Bolt,Steel,40,6,1130.97,810.53,8.88,Thread Rolling,0.032,8.22,0
+BOLT_038,Carriage Bolt,Stainless Steel,40,12,4523.89,1734.16,36.19,Thread Rolling,0.014,52.31,0
+BOLT_039,Flange Bolt,Steel,40,6,1130.97,810.53,8.88,Cold Forging,0.045,10.44,0
+BOLT_040,Hex Bolt,Stainless Steel,80,10,6283.19,2670.35,50.27,Thread Rolling,0.036,54.59,0
+BOLT_041,Eye Bolt,Stainless Steel,100,12,11309.73,3996.11,90.48,CNC Machining,0.013,76.9,0
+BOLT_042,Hex Bolt,Steel,20,8,1005.31,603.19,7.89,CNC Machining,0.019,11.82,0
+BOLT_043,Carriage Bolt,Stainless Steel,30,12,3392.92,1357.17,27.14,Cold Forging,0.011,40.33,0
+BOLT_044,Eye Bolt,Stainless Steel,40,6,1130.97,810.53,9.05,CNC Machining,0.015,9.13,0
+BOLT_045,Eye Bolt,Alloy Steel,30,12,3392.92,1357.17,26.46,CNC Machining,0.036,25.9,0
+BOLT_046,Hex Bolt,Steel,50,6,1413.72,999.03,11.1,Cold Forging,0.044,9.6,0
+BOLT_047,Hex Bolt,Steel,50,12,5654.87,2111.15,44.39,CNC Machining,0.047,46.28,0
+BOLT_048,Carriage Bolt,Alloy Steel,80,12,9047.79,3242.12,70.57,Thread Rolling,0.02,102.03,0
+BOLT_049,Carriage Bolt,Alloy Steel,20,6,565.49,433.54,4.41,Thread Rolling,0.026,5.52,0
+BOLT_050,Hex Bolt,Steel,100,12,11309.73,3996.11,88.78,CNC Machining,0.018,123.55,0
+BOLT_051,Flange Bolt,Stainless Steel,50,16,10053.1,2915.4,80.42,CNC Machining,0.031,101.13,1
+BOLT_052,Flange Bolt,Steel,50,8,2513.27,1357.17,19.73,CNC Machining,0.018,23.24,0
+BOLT_053,Hex Bolt,Stainless Steel,50,12,5654.87,2111.15,45.24,CNC Machining,0.017,65.82,0
+BOLT_054,Eye Bolt,Alloy Steel,100,12,11309.73,3996.11,88.22,CNC Machining,0.026,94.78,0
+BOLT_055,Hex Bolt,Alloy Steel,30,6,848.23,622.04,6.62,Cold Forging,0.042,5.73,0
+BOLT_056,Flange Bolt,Steel,60,10,4712.39,2042.04,36.99,Cold Forging,0.018,53.14,0
+BOLT_057,Eye Bolt,Steel,100,12,11309.73,3996.11,88.78,Thread Rolling,0.047,100.16,0
+BOLT_058,Carriage Bolt,Alloy Steel,30,6,848.23,622.04,6.62,Thread Rolling,0.023,5.33,0
+BOLT_059,Flange Bolt,Stainless Steel,40,10,3141.59,1413.72,25.13,Thread Rolling,0.025,28.26,0
+BOLT_060,Hex Bolt,Steel,50,8,2513.27,1357.17,19.73,CNC Machining,0.021,26.8,0
