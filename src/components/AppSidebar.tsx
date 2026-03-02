@@ -2,11 +2,11 @@ import { useNavigate, useLocation } from "react-router-dom";
 import { useAuth } from "@/hooks/useAuth";
 import { Wrench, LayoutDashboard, Search, Database, Users, LogOut } from "lucide-react";
 
-const navItems = [
+const navItems: { label: string; icon: typeof LayoutDashboard; path: string; role?: string }[] = [
   { label: "Dashboard", icon: LayoutDashboard, path: "/dashboard" },
   { label: "Duplicate Checker", icon: Search, path: "/checker" },
-  { label: "Bolt Database", icon: Database, path: "/bolts", role: "admin" as const },
-  { label: "Manage Users", icon: Users, path: "/users", role: "admin" as const },
+  { label: "Bolt Database", icon: Database, path: "/bolts", role: "admin" },
+  { label: "Manage Users", icon: Users, path: "/users", role: "admin" },
 ];
 
 export default function AppSidebar() {
