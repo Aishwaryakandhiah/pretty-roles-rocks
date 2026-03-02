@@ -15,7 +15,7 @@ export default function AppSidebar() {
   const location = useLocation();
 
   const visibleItems = navItems.filter(
-    (item) => !item.role || role === item.role || role === "admin"
+    (item) => !item.role || role === item.role || (role as string) === "admin"
   );
 
   return (
