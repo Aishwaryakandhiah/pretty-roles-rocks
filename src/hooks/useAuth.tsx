@@ -24,12 +24,27 @@ export function AuthProvider({ children }: { children: ReactNode }) {
   const [loading, setLoading] = useState(true);
 
   const fetchRole = async (userId: string) => {
-    const { data } = await supabase
+    const { data: rpcRole, error: rpcError } = await supabase.rpc("get_user_role", {
+      _user_id: userId,
+    });
+
+    if (!rpcError && rpcRole) {
+      setRole(rpcRole);
+      return;
+    }
+
+    const { data, error } = await supabase
       .from("user_roles")
       .select("role")
-      .eq("user_id", userId)
-      .maybeSingle();
-    setRole(data?.role ?? null);
+      .eq("user_id", userId);
+
+    if (error || !data || data.length === 0) {
+      setRole(null);
+      return;
+    }
+
+    const resolvedRole = data.some((row) => row.role === "admin") ? "admin" : data[0].role;
+    setRole(resolvedRole);
   };
 
   useEffect(() => {
